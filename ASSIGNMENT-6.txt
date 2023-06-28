@@ -1,0 +1,21 @@
+                                                                                                                                            ASSIGNMENT-6
+
+1.  Tables are used to organize information in rows and columns. Each row represents a record, and each column represents a field. Tables can be sorted, filtered, and searched to quickly find the information you need. Some common properties of tables include the number of rows and columns, the data types of the fields, and any constraints or relationships between tables.
+
+2.  Media elements are used to display various types of media, such as images, videos, and audio files. Images are displayed using the <img> tag, while videos and audio files are displayed using the <video> and <audio> tags, respectively. These tags allow you to specify the source file, dimensions, and other attributes of the media element. You can also use CSS to style the media element, such as changing the size or adding borders. Media elements can be controlled using JavaScript, allowing you to add features such as play/pause buttons or volume controls.
+
+3.  In HTML forms, GET and POST are two HTTP methods used to send data from the client to the server. GET sends the data as part of the URL query string, which is visible in the address bar of the browser. POST sends the data in the request body, which is not visible to the user. GET is typically used for simple requests, such as retrieving data from a server, while POST is used for more complex requests, such as submitting a form or uploading a file. POST is also more secure than GET, as the data is not visible to the user and can be encrypted.
+
+4.  There are several input types available in HTML forms:
+- Text: for single-line text input
+- Password: for password input (the characters are masked)
+- Email: for email addresses
+- Number: for numerical input
+- Date: for date input
+- Time: for time input
+- Checkbox: for multiple-choice input (allows multiple selections)
+- Radio: for single-choice input (allows only one selection)
+- File: for file upload
+- Submit: for submitting the form
+- Reset: for resetting the form
+- Button: for custom buttons.
